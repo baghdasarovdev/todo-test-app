@@ -23,8 +23,8 @@ A minimal yet robust full-stack to-do list application built with:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/banzai/next-trpc-todo.git
-cd next-trpc-todo
+git clone https://github.com/baghdasarovdev/todo-test-app
+cd todo-test-app
 ```
 
 ### 2. Create Environment File
